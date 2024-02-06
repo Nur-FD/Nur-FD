@@ -9,7 +9,7 @@ I am Nur Mohammed If you're looking for a developer to your Flutter Mobile Appli
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [nur161702@gmail.com](mailto:nur161702@gmail.com)
 * 🚀  I'm currently working on [Ecommerce App](http://https://github.com/Nur-FD/E-commerce.git)
-* 🧠  I'm learning Flutter framework
+* 🧠  I'm learning Dart and Flutter framework
 * 🤝  I'm open to collaborating on flutter mobile project
 
 <a href="https://www.github.com/Nur-FD" target="_blank" rel="noreferrer"><img
